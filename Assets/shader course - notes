@@ -1,0 +1,19 @@
+vector (2, 3)
+
+length of a vector = sqrt(vector.x² + vector.y²)
+	sqrt(2² + 3²)
+	 	sqrt(4 + 9)
+	  	sqrt(13)
+	  		 ~3.6
+
+normalize a vector = vector / length of a vector
+	v(2, 3) / sqrt(2² + 3²)
+		v(2, 3) / 3.6
+			v(2 / 3.6, 3 / 3.6)
+				v(0.556, 0.833)
+
+dot produtc of vector v(2, 3) and w(5, 1)
+	v . w = vx * wx + vy *wy
+		v . w = 2 * 5 + 3 * 1
+			v . w = 10 + 3
+			 	v . w = 13

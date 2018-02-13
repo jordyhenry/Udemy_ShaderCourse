@@ -1,0 +1,25 @@
+Appendix C - Credits and Extra Resources
+
+Many thanks goes to all the Unity developers out there on the Internet who continue to provide great free resources in the Unity forums and on their own websites.  You can find shader code and extra tutorials that has inspired many of the examples found here at the following locations:
+
+Relevant Unity Manual References
+
+https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html
+Mathematical Formulae for Plasma
+
+https://www.bidouille.org/prog/plasma
+Original Project Inspiration for Advanced Stencil Lecture
+
+https://forum.unity.com/threads/unity-4-2-stencils-for-portal-rendering.191890/
+More Freely Available Shader Code Examples
+
+http://wiki.unity3d.com/index.php/Shader_Code
+http://wiki.unity3d.com/index.php?title=Shaders#Unity_5.x_Shaders
+Textures and Normal Maps
+
+http://www.textures.com
+Open Source Shader Plugin For Unity
+
+LUX
+ 
