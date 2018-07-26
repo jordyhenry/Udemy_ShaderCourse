@@ -1,5 +1,3 @@
-// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
-
 //Rewrite the plasma shader as a VF shader instead of a Surface shader
 
 Shader "Holistic/VFPlasma" {
@@ -38,7 +36,6 @@ Shader "Holistic/VFPlasma" {
 				{
 					v2f o;
 					o.vertex = UnityObjectToClipPos(v.vertex);
-					float3 worldPos = mul(unity_ObjectToWorld, v.vertex).xyz;
 					return o;
 				}
 
