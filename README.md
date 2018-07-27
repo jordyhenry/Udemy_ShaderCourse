@@ -17,4 +17,4 @@ A project with some examples of use and techniques of shaders applied in Unity
 
 ### Instructions
 
-User de Left and Right Arrow keys to navigate through the shader examples
+Use the Left and Right Arrow keys to navigate through the shader examples
