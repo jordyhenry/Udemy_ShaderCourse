@@ -1,6 +1,6 @@
-# Shader Course
+# Shaders With Cg
 
-A project with some examples of use and techniques of shaders applied in Unity
+A projetc with some studies and examples of shading techniques using Unity Cg
 
 ![Shaders Examples](out.gif)
 
